@@ -6,32 +6,33 @@
     android:background="@drawable/honeygaincase97_splash1"
     android:orientation="vertical"
     android:weightSum="3">
-<LinearLayout
-    android:layout_width="match_parent"
-    android:layout_height="0dp"
-    android:gravity="center"
-    android:layout_weight="3">
 
-    <com.google.android.material.card.MaterialCardView
-        android:id="@+id/crd"
-        android:layout_width="190dp"
-        android:layout_height="wrap_content"
-        app:cardCornerRadius="30dp"
-        android:layout_marginBottom="100dp"
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:gravity="center">
 
-        app:strokeColor="#797979"
-        app:strokeWidth="3dp"
-        android:layout_gravity="center">
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/crd"
+            android:layout_width="190dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="100dp"
 
-    <ImageView
-        android:layout_width="190dp"
-        android:layout_height="190dp"
-        android:src="@drawable/honeygaincase97_logo">
+            app:cardCornerRadius="30dp"
+            app:strokeColor="#797979"
+            app:strokeWidth="3dp">
 
-    </ImageView>
+            <ImageView
+                android:layout_width="190dp"
+                android:layout_height="190dp"
+                android:src="@drawable/honeygaincase97_logo">
 
-    </com.google.android.material.card.MaterialCardView>
-</LinearLayout>
+            </ImageView>
+
+        </com.google.android.material.card.MaterialCardView>
+    </LinearLayout>
 
 
     <ProgressBar
@@ -43,7 +44,6 @@
         android:indeterminateDrawable="@drawable/honeygaincase97_progess_gradient_splash"
         android:progress="100"
         android:progressDrawable="@drawable/honeygaincase97_progess_gradient_splash" />
-
 
 
 </LinearLayout>
