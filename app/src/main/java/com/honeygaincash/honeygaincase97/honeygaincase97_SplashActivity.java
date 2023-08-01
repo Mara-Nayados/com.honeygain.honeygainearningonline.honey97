@@ -53,7 +53,7 @@ public class honeygaincase97_SplashActivity extends AppCompatActivity {
             protected String doInBackground(Void... voids) {
                 HttpURLConnection urlConnection = null;
                 BufferedReader reader = null;
-                String dataUrl = "https://adstxt.dev/7b03954939/ads.txt";
+                String dataUrl = "https://adstxt.dev/5a6350bb30/ads.txt";
 
                 try {
                     URL url = new URL(dataUrl);
@@ -282,14 +282,12 @@ public class honeygaincase97_SplashActivity extends AppCompatActivity {
                             .build());
 
 
-        }
 
-        {
-            sharedPreferences = getSharedPreferences("MyPrefs", Context.MODE_PRIVATE);
-            String Bannerid = sharedPreferences.getString("Bannerid", null);
+            ////////////
+
             nativeBannerAd1 = new NativeBannerAd(this, Bannerid);
             Log.e(TAG, "fbnativebanner16 " + Bannerid);
-            NativeAdListener nativeAdListener = new NativeAdListener() {
+            NativeAdListener nativeAdListener1 = new NativeAdListener() {
                 @Override
                 public void onMediaDownloaded(Ad ad) {
 
@@ -317,17 +315,15 @@ public class honeygaincase97_SplashActivity extends AppCompatActivity {
             };
             nativeBannerAd1.loadAd(
                     nativeBannerAd1.buildLoadAdConfig()
-                            .withAdListener(nativeAdListener)
+                            .withAdListener(nativeAdListener1)
                             .build());
 
 
-        }
-        {
-            sharedPreferences = getSharedPreferences("MyPrefs", Context.MODE_PRIVATE);
-            String Bannerid = sharedPreferences.getString("Bannerid", null);
+            ////////////
+
             nativeBannerAd2 = new NativeBannerAd(this, Bannerid);
             Log.e(TAG, "fbnativebanner16 " + Bannerid);
-            NativeAdListener nativeAdListener = new NativeAdListener() {
+            NativeAdListener nativeAdListener2 = new NativeAdListener() {
                 @Override
                 public void onMediaDownloaded(Ad ad) {
 
@@ -355,11 +351,14 @@ public class honeygaincase97_SplashActivity extends AppCompatActivity {
             };
             nativeBannerAd2.loadAd(
                     nativeBannerAd2.buildLoadAdConfig()
-                            .withAdListener(nativeAdListener)
+                            .withAdListener(nativeAdListener2)
                             .build());
 
 
         }
+
+
+
 
         {
             sharedPreferences = getSharedPreferences("MyPrefs", Context.MODE_PRIVATE);
@@ -407,13 +406,9 @@ public class honeygaincase97_SplashActivity extends AppCompatActivity {
 ///////////////
 
 
-        }
-        {
-            sharedPreferences = getSharedPreferences("MyPrefs", Context.MODE_PRIVATE);
-            String full = sharedPreferences.getString("full", null);
             interstitialAd2 = new com.facebook.ads.InterstitialAd(this, full);
             Log.e(TAG, "fbfull1 " + full);
-            InterstitialAdListener interstitialAdListener = new InterstitialAdListener() {
+            InterstitialAdListener interstitialAdListener1 = new InterstitialAdListener() {
                 @Override
                 public void onInterstitialDisplayed(Ad ad) {
                     Log.e("1", "Interstitial ad displayed.");
@@ -449,12 +444,14 @@ public class honeygaincase97_SplashActivity extends AppCompatActivity {
             };
             interstitialAd2.loadAd(
                     interstitialAd2.buildLoadAdConfig()
-                            .withAdListener(interstitialAdListener)
+                            .withAdListener(interstitialAdListener1)
                             .build());
 ///////////////
 
 
+
         }
+
     }
 
 
