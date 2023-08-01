@@ -1,0 +1,38 @@
+com.honeygaincash.honeygaincase97.app-fragment-1.3.6-0 C:\Users\INTLLECT5\.gradle\caches\transforms-3\1c7388d7653b40ffec4693d46e632fb9\transformed\fragment-1.3.6\res
+com.honeygaincash.honeygaincase97.app-appcompat-1.5.0-1 C:\Users\INTLLECT5\.gradle\caches\transforms-3\1e60781b87e4a041f8232ffff0f6692a\transformed\appcompat-1.5.0\res
+com.honeygaincash.honeygaincase97.app-work-runtime-ktx-2.7.1-2 C:\Users\INTLLECT5\.gradle\caches\transforms-3\2d62e0b09c151d8169b24e8c8fc282a2\transformed\work-runtime-ktx-2.7.1\res
+com.honeygaincash.honeygaincase97.app-jetified-annotation-experimental-1.1.0-3 C:\Users\INTLLECT5\.gradle\caches\transforms-3\3d60f9cc851bddacffd14b18070e3459\transformed\jetified-annotation-experimental-1.1.0\res
+com.honeygaincash.honeygaincase97.app-core-1.8.0-4 C:\Users\INTLLECT5\.gradle\caches\transforms-3\3e105c6aded0bcbdb234b918cc69fd5b\transformed\core-1.8.0\res
+com.honeygaincash.honeygaincase97.app-cardview-1.0.0-5 C:\Users\INTLLECT5\.gradle\caches\transforms-3\421647b9d3959fe762039da88db393c9\transformed\cardview-1.0.0\res
+com.honeygaincash.honeygaincase97.app-lifecycle-livedata-core-2.5.0-6 C:\Users\INTLLECT5\.gradle\caches\transforms-3\4445f05184e1ef66711a6ac4f28d9733\transformed\lifecycle-livedata-core-2.5.0\res
+com.honeygaincash.honeygaincase97.app-jetified-appcompat-resources-1.5.0-7 C:\Users\INTLLECT5\.gradle\caches\transforms-3\4abfbb333ca9b3e175eaa3568ea1e0d3\transformed\jetified-appcompat-resources-1.5.0\res
+com.honeygaincash.honeygaincase97.app-jetified-viewpager2-1.0.0-8 C:\Users\INTLLECT5\.gradle\caches\transforms-3\4c0f43d4ae313a93057be06a7a3d7ad0\transformed\jetified-viewpager2-1.0.0\res
+com.honeygaincash.honeygaincase97.app-work-runtime-2.7.1-9 C:\Users\INTLLECT5\.gradle\caches\transforms-3\5752c62a80db53cc5279a381c8b56b3f\transformed\work-runtime-2.7.1\res
+com.honeygaincash.honeygaincase97.app-transition-1.2.0-10 C:\Users\INTLLECT5\.gradle\caches\transforms-3\603637a20b859015d9f300ed96981dee\transformed\transition-1.2.0\res
+com.honeygaincash.honeygaincase97.app-jetified-emoji2-views-helper-1.2.0-11 C:\Users\INTLLECT5\.gradle\caches\transforms-3\6dfd3048ba0fc24cfb56209b50a285c8\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.honeygaincash.honeygaincase97.app-jetified-lottie-3.4.0-12 C:\Users\INTLLECT5\.gradle\caches\transforms-3\72af995888c2c4fb073c792734f29924\transformed\jetified-lottie-3.4.0\res
+com.honeygaincash.honeygaincase97.app-browser-1.4.0-13 C:\Users\INTLLECT5\.gradle\caches\transforms-3\766ad5457b18737da36fea5eca2f0de9\transformed\browser-1.4.0\res
+com.honeygaincash.honeygaincase97.app-jetified-lifecycle-process-2.5.1-14 C:\Users\INTLLECT5\.gradle\caches\transforms-3\7c73d075aa64a6624af1c8612d6ceb86\transformed\jetified-lifecycle-process-2.5.1\res
+com.honeygaincash.honeygaincase97.app-lifecycle-viewmodel-2.5.0-15 C:\Users\INTLLECT5\.gradle\caches\transforms-3\88f2a29ba212e5700c13cf251ee21efb\transformed\lifecycle-viewmodel-2.5.0\res
+com.honeygaincash.honeygaincase97.app-jetified-lifecycle-viewmodel-savedstate-2.5.0-16 C:\Users\INTLLECT5\.gradle\caches\transforms-3\8d063179741fcef5592e94586939cfe8\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.0\res
+com.honeygaincash.honeygaincase97.app-jetified-startup-runtime-1.1.1-17 C:\Users\INTLLECT5\.gradle\caches\transforms-3\8e3ae41ff511e386597fd1aa87b83233\transformed\jetified-startup-runtime-1.1.1\res
+com.honeygaincash.honeygaincase97.app-lifecycle-runtime-2.5.1-18 C:\Users\INTLLECT5\.gradle\caches\transforms-3\aa132aa1a4010fa22ad5ccbb63375985\transformed\lifecycle-runtime-2.5.1\res
+com.honeygaincash.honeygaincase97.app-jetified-activity-1.5.0-19 C:\Users\INTLLECT5\.gradle\caches\transforms-3\b03a4cd5820c3c0d0a1c4a4d0ecf9138\transformed\jetified-activity-1.5.0\res
+com.honeygaincash.honeygaincase97.app-drawerlayout-1.1.1-20 C:\Users\INTLLECT5\.gradle\caches\transforms-3\b283b1eee33a19a5803740e8c3791201\transformed\drawerlayout-1.1.1\res
+com.honeygaincash.honeygaincase97.app-material-1.7.0-21 C:\Users\INTLLECT5\.gradle\caches\transforms-3\b2c1734ebf513d49619124b5d80b9fbe\transformed\material-1.7.0\res
+com.honeygaincash.honeygaincase97.app-jetified-savedstate-1.2.0-22 C:\Users\INTLLECT5\.gradle\caches\transforms-3\c18232437dc11e6df90466a4c9d6749c\transformed\jetified-savedstate-1.2.0\res
+com.honeygaincash.honeygaincase97.app-coordinatorlayout-1.1.0-23 C:\Users\INTLLECT5\.gradle\caches\transforms-3\c6554e58f72d17d0127bb6402454ff0a\transformed\coordinatorlayout-1.1.0\res
+com.honeygaincash.honeygaincase97.app-constraintlayout-2.1.4-24 C:\Users\INTLLECT5\.gradle\caches\transforms-3\c7599138b9a3b945713fd42bd582ba73\transformed\constraintlayout-2.1.4\res
+com.honeygaincash.honeygaincase97.app-jetified-play-services-basement-11.0.4-25 C:\Users\INTLLECT5\.gradle\caches\transforms-3\cbb1838b3055e3fd08e3a20b30dc0795\transformed\jetified-play-services-basement-11.0.4\res
+com.honeygaincash.honeygaincase97.app-media-1.0.0-26 C:\Users\INTLLECT5\.gradle\caches\transforms-3\d28e35f24544d03f5796fb41433862dc\transformed\media-1.0.0\res
+com.honeygaincash.honeygaincase97.app-recyclerview-1.1.0-27 C:\Users\INTLLECT5\.gradle\caches\transforms-3\d2e06cb75f51dee0a1ed431ce1d73d56\transformed\recyclerview-1.1.0\res
+com.honeygaincash.honeygaincase97.app-jetified-core-ktx-1.8.0-28 C:\Users\INTLLECT5\.gradle\caches\transforms-3\e75693397915a1c2cc981f53047c4cf4\transformed\jetified-core-ktx-1.8.0\res
+com.honeygaincash.honeygaincase97.app-jetified-emoji2-1.2.0-29 C:\Users\INTLLECT5\.gradle\caches\transforms-3\fe88d4704bd6c56b3f1585bdd66e99e3\transformed\jetified-emoji2-1.2.0\res
+com.honeygaincash.honeygaincase97.app-pngs-30 D:\zalak-new\probo official\zalak today Work\1-8-2023\com.honeygain.honeygainearningonline.honey97\app\build\generated\res\pngs\debug
+com.honeygaincash.honeygaincase97.app-resValues-31 D:\zalak-new\probo official\zalak today Work\1-8-2023\com.honeygain.honeygainearningonline.honey97\app\build\generated\res\resValues\debug
+com.honeygaincash.honeygaincase97.app-rs-32 D:\zalak-new\probo official\zalak today Work\1-8-2023\com.honeygain.honeygainearningonline.honey97\app\build\generated\res\rs\debug
+com.honeygaincash.honeygaincase97.app-packageDebugResources-33 D:\zalak-new\probo official\zalak today Work\1-8-2023\com.honeygain.honeygainearningonline.honey97\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.honeygaincash.honeygaincase97.app-packageDebugResources-34 D:\zalak-new\probo official\zalak today Work\1-8-2023\com.honeygain.honeygainearningonline.honey97\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.honeygaincash.honeygaincase97.app-merged_res-35 D:\zalak-new\probo official\zalak today Work\1-8-2023\com.honeygain.honeygainearningonline.honey97\app\build\intermediates\merged_res\debug
+com.honeygaincash.honeygaincase97.app-debug-36 D:\zalak-new\probo official\zalak today Work\1-8-2023\com.honeygain.honeygainearningonline.honey97\app\src\debug\res
+com.honeygaincash.honeygaincase97.app-main-37 D:\zalak-new\probo official\zalak today Work\1-8-2023\com.honeygain.honeygainearningonline.honey97\app\src\main\res

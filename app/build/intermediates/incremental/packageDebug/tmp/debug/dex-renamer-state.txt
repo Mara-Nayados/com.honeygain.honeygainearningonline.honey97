@@ -1,0 +1,13 @@
+#Tue Aug 01 11:41:35 IST 2023
+base.0=D\:\\zalak-new\\probo official\\zalak today Work\\1-8-2023\\com.honeygain.honeygainearningonline.honey97\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=D\:\\zalak-new\\probo official\\zalak today Work\\1-8-2023\\com.honeygain.honeygainearningonline.honey97\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=D\:\\zalak-new\\probo official\\zalak today Work\\1-8-2023\\com.honeygain.honeygainearningonline.honey97\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
+base.3=D\:\\zalak-new\\probo official\\zalak today Work\\1-8-2023\\com.honeygain.honeygainearningonline.honey97\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=4/classes.dex
+path.3=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
